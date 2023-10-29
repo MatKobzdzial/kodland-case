@@ -1,3 +1,0 @@
-- Burger menu
-- Carousel
-- Tuning BEM convention
